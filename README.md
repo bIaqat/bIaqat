@@ -4,9 +4,9 @@
   </kbd>
 </p>
 <p align="center">
-  ﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋
+  ﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋۵﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋
 </p>
 <p align="center">
         ᶻ 𝗓 𐰁
-     - ˕ •マ <sub><sub>$${\color{red}blaqat}$$</sub></sub>
+     - ˕ •マ <sub><sub>$${blaqat}$$</sub></sub>ׅ
 </p>
