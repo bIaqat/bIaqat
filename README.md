@@ -8,5 +8,5 @@
 </p>
 <p align="center">
         ᶻ 𝗓 𐰁
-     - ˕ •マ <sub><sub>$${\color{pink}blaqat}$$</sub></sub>
+     - ˕ •マ <sub><sub>$${\color{red}blaqat}$$</sub></sub>
 </p>
