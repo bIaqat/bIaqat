@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-     ⋱ clean code starts with an c̶̶̶l̶̶̶e̶̶̶a̶̶̶n̶̶̶ aesthetic editor ⋰ 
+     ⋱ clean code starts with a clean editor ⋰ 
   </kbd>
 </p>
 <p align="center">
